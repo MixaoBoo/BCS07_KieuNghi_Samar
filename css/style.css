@@ -273,10 +273,6 @@ header .header__content nav button:hover {
   position: absolute;
   left: -17%;
 }
-/* .aboutUs .aboutUs__left .aboutUs__left__bg {
-  width: 720px;
-  margin-left: -235px;
-} */
 .aboutUs .aboutUs__left .aboutUs__left__bg img {
   width: 100%;
   border-radius: 0px 100px 100px 0px;
@@ -680,7 +676,7 @@ header .header__content nav button:hover {
   width: 100%;
   border-radius: 8px;
 }
-.blog .blog__content .blog__item {
+.blog .blog__content .blog__item .item__top {
   position: relative;
 }
 .blog .blog__content .blog__item .item__top p {
@@ -696,7 +692,7 @@ header .header__content nav button:hover {
   font-size: 14px;
   color: white;
   position: absolute;
-  top: 185px;
+  bottom: -18px;
   left: 15px;
 }
 .blog .blog__content .blog__item .item__middle {
